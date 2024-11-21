@@ -1,0 +1,6 @@
+@gerenciador_livraria_HostAddress = http://localhost:5032
+
+GET {{gerenciador_livraria_HostAddress}}/livraria/
+Accept: application/json
+
+###
